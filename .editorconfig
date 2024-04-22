@@ -1,0 +1,7 @@
+# editorconfig.org에서 내용 파악 가능.
+
+[*.{js,jsx,ts,tsx,vue,scss,sass}]
+indent_style = space                     # 들여쓰기는 스페이스 두 칸으로 설정
+indent_size = 2
+trim_trailing_whitespace = true          # 문자 앞에 공백 제거
+insert_final_newline = true              # 파일을 저장할 때 파일의 끝은 새로운 줄로 끝내겠다는 의미
